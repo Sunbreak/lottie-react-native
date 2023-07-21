@@ -9,6 +9,8 @@
     "setup": "yarn workspace lottie-react-native build",
     "fabric:android": "yarn workspace fabric-example android",
     "fabric:ios": "yarn workspace fabric-example ios",
+    "compat:android": "yarn workspace fabric-compat android",
+    "compat:ios": "yarn workspace fabric-compat ios",
     "paper:android": "yarn workspace paper-example android",
     "paper:ios": "yarn workspace paper-example ios",
     "docs:clean": "rimraf _book",
